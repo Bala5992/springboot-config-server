@@ -1,0 +1,6 @@
+application:
+  message: Default - Welcome Message from Git
+eureka:
+   client:
+      serviceUrl:
+         defaultZone: http://localhost:8787/eureka
